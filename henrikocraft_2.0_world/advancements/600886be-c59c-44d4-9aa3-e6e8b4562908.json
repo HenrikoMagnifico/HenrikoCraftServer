@@ -1,0 +1,81 @@
+{
+  "minecraft:recipes/decorations/torch": {
+    "criteria": {
+      "has_stone_pickaxe": "2023-09-10 17:54:03 +0000"
+    },
+    "done": true
+  },
+  "global:thewii": {
+    "criteria": {
+      "trigger": "2023-09-10 17:54:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/charcoal": {
+    "criteria": {
+      "has_log": "2023-09-10 17:54:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/upgrade_tools": {
+    "criteria": {
+      "stone_pickaxe": "2023-09-10 17:54:03 +0000"
+    },
+    "done": true
+  },
+  "incendium:technical/on_inventory_change": {
+    "criteria": {
+      "requirement": "2023-09-10 17:54:03 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/decorations/crafting_table": {
+    "criteria": {
+      "unlock_right_away": "2023-09-10 17:54:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/chest": {
+    "criteria": {
+      "has_lots_of_items": "2023-09-10 17:54:03 +0000"
+    },
+    "done": true
+  },
+  "thewii:immersive/player/player_joined": {
+    "criteria": {
+      "joined": "2023-09-10 17:54:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/oak_planks": {
+    "criteria": {
+      "has_logs": "2023-09-10 17:54:03 +0000"
+    },
+    "done": true
+  },
+  "global:root": {
+    "criteria": {
+      "trigger": "2023-09-10 17:54:03 +0000"
+    },
+    "done": true
+  },
+  "thewii:immersive/core/immersive-soundscapes": {
+    "criteria": {
+      "trigger": "2023-09-10 17:54:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/oak_wood": {
+    "criteria": {
+      "has_log": "2023-09-10 17:54:03 +0000"
+    },
+    "done": true
+  },
+  "incendium:technical/new_player": {
+    "criteria": {
+      "requirement": "2023-09-10 17:54:03 +0000"
+    },
+    "done": true
+  },
+  "DataVersion": 3465
+}

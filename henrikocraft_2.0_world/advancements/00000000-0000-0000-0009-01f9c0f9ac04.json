@@ -1,0 +1,528 @@
+{
+  "minecraft:recipes/decorations/light_blue_bed_from_white_bed": {
+    "criteria": {
+      "has_bed": "2022-11-13 15:29:02 +0000"
+    },
+    "done": true
+  },
+  "incendium:technical/on_block": {
+    "criteria": {
+      "log_spam_fixer": "2023-07-10 20:06:10 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/food/cooked_porkchop_from_campfire_cooking": {
+    "criteria": {
+      "has_porkchop": "2023-07-10 19:56:30 +0000"
+    },
+    "done": true
+  },
+  "dnl:entity/guardian_ghast/hurt": {
+    "criteria": {
+      "not_projectile": "2023-07-07 15:26:47 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/using/trailblazer": {
+    "criteria": {
+      "log_spam_fixer": "2022-11-13 15:29:04 +0000"
+    },
+    "done": false
+  },
+  "minecraft:adventure/kill_a_mob": {
+    "criteria": {
+      "minecraft:enderman": "2023-02-12 22:39:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/magenta_bed_from_white_bed": {
+    "criteria": {
+      "has_bed": "2022-11-13 15:29:02 +0000"
+    },
+    "done": true
+  },
+  "dnl:util/entity_hit_matching/on_hurt": {
+    "criteria": {
+      "not_projectile": "2023-07-10 20:02:08 +0000",
+      "blocked_false": "2023-07-10 20:02:08 +0000"
+    },
+    "done": false
+  },
+  "minecraft:end/root": {
+    "criteria": {
+      "entered_end": "2022-12-27 16:00:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/orange_bed_from_white_bed": {
+    "criteria": {
+      "has_bed": "2022-11-13 15:29:02 +0000"
+    },
+    "done": true
+  },
+  "incendium:technical/scroll_of_returning": {
+    "criteria": {
+      "log_spam_fixer": "2022-11-13 15:29:04 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/multiplex_crossbow": {
+    "criteria": {
+      "log_spam_fixer": "2023-07-10 20:06:10 +0000"
+    },
+    "done": false
+  },
+  "dnl:story/general/locate_dungeon": {
+    "criteria": {
+      "locate_hunters_grave": "2022-11-13 15:29:04 +0000",
+      "locate_railway_outpost": "2022-11-13 15:29:04 +0000",
+      "locate_deep_oasis": "2022-11-13 15:29:04 +0000",
+      "locate_gallery_of_illusion": "2022-11-13 15:29:04 +0000",
+      "locate_forgotten_field": "2022-11-13 15:29:04 +0000",
+      "locate_sinkhole": "2022-11-13 15:29:04 +0000",
+      "locate_temple_of_tears": "2022-11-13 15:29:04 +0000",
+      "locate_hivenest": "2022-11-13 15:29:04 +0000",
+      "locate_olympus": "2022-11-13 15:29:04 +0000",
+      "locate_cleric_hideout": "2022-11-13 15:29:04 +0000",
+      "locate_watcher_camp": "2022-11-13 15:29:04 +0000",
+      "locate_crawlers_lair": "2022-11-13 15:29:04 +0000"
+    },
+    "done": true
+  },
+  "global:thewii": {
+    "criteria": {
+      "trigger": "2022-11-13 15:29:02 +0000"
+    },
+    "done": true
+  },
+  "incendium:technical/firestorm": {
+    "criteria": {
+      "log_spam_fixer": "2023-07-10 20:06:10 +0000"
+    },
+    "done": false
+  },
+  "minecraft:nether/root": {
+    "criteria": {
+      "entered_nether": "2023-07-10 20:04:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_beef": {
+    "criteria": {
+      "has_beef": "2022-11-13 15:35:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:sparse_jungle": "2023-07-10 19:33:47 +0000",
+      "minecraft:forest": "2022-11-13 15:33:06 +0000",
+      "minecraft:lush_caves": "2023-07-10 19:45:33 +0000",
+      "minecraft:meadow": "2023-07-10 19:55:02 +0000",
+      "minecraft:savanna": "2022-11-13 15:32:08 +0000",
+      "minecraft:plains": "2022-11-13 15:29:04 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/decorations/purple_bed_from_white_bed": {
+    "criteria": {
+      "has_bed": "2022-11-13 15:29:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/charcoal": {
+    "criteria": {
+      "has_log": "2022-11-13 15:29:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/sleep_in_bed": {
+    "criteria": {
+      "slept_in_bed": "2023-07-10 19:34:30 +0000"
+    },
+    "done": true
+  },
+  "incendium:technical/using/ragnarok": {
+    "criteria": {
+      "log_spam_fixer": "2022-11-13 15:29:04 +0000"
+    },
+    "done": false
+  },
+  "minecraft:husbandry/root": {
+    "criteria": {
+      "consumed_item": "2022-11-13 15:33:34 +0000"
+    },
+    "done": true
+  },
+  "fokastudio:end/ender_adventurer": {
+    "criteria": {
+      "the_end": "2022-12-27 16:00:07 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/decorations/chest": {
+    "criteria": {
+      "has_lots_of_items": "2022-11-13 15:29:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/birch_boat": {
+    "criteria": {
+      "in_water": "2023-07-10 19:36:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/black_bed_from_white_bed": {
+    "criteria": {
+      "has_bed": "2022-11-13 15:29:02 +0000"
+    },
+    "done": true
+  },
+  "incendium:technical/inventory/sentrys_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2023-07-10 20:06:10 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/transportation/mangrove_boat": {
+    "criteria": {
+      "in_water": "2023-07-10 19:36:13 +0000"
+    },
+    "done": true
+  },
+  "incendium:technical/new_player": {
+    "criteria": {
+      "requirement": "2022-11-13 15:29:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/torch": {
+    "criteria": {
+      "has_stone_pickaxe": "2022-11-13 15:29:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/acacia_boat": {
+    "criteria": {
+      "in_water": "2023-07-10 19:36:13 +0000"
+    },
+    "done": true
+  },
+  "incendium:technical/holy_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2023-07-10 20:06:10 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/inventory/firestorm": {
+    "criteria": {
+      "log_spam_fixer": "2023-07-10 20:06:10 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/misc/nether_brick": {
+    "criteria": {
+      "has_netherrack": "2023-07-10 20:06:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cyan_bed_from_white_bed": {
+    "criteria": {
+      "has_bed": "2022-11-13 15:29:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/root": {
+    "criteria": {
+      "killed_something": "2022-11-13 15:35:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/jungle_boat": {
+    "criteria": {
+      "in_water": "2023-07-10 19:36:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/yellow_dye_from_dandelion": {
+    "criteria": {
+      "has_dandelion": "2023-07-10 19:55:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/red_dye_from_tulip": {
+    "criteria": {
+      "has_red_flower": "2023-07-10 19:56:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/bowl": {
+    "criteria": {
+      "has_brown_mushroom": "2022-11-13 15:34:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/spruce_boat": {
+    "criteria": {
+      "in_water": "2023-07-10 19:36:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/flower_banner_pattern": {
+    "criteria": {
+      "has_oxeye_daisy": "2023-07-10 19:54:17 +0000"
+    },
+    "done": true
+  },
+  "incendium:technical/give_ghastling": {
+    "criteria": {
+      "log_spam_fixer": "2023-07-10 20:06:10 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/decorations/gray_bed_from_white_bed": {
+    "criteria": {
+      "has_bed": "2022-11-13 15:29:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/lime_bed_from_white_bed": {
+    "criteria": {
+      "has_bed": "2022-11-13 15:29:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/oak_planks": {
+    "criteria": {
+      "has_logs": "2022-11-13 15:29:02 +0000"
+    },
+    "done": true
+  },
+  "incendium:technical/on_kill": {
+    "criteria": {
+      "log_spam_fixer": "2023-07-10 20:06:10 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/transportation/dark_oak_boat": {
+    "criteria": {
+      "in_water": "2023-07-10 19:36:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/carrot_on_a_stick": {
+    "criteria": {
+      "has_carrot": "2023-07-10 19:53:55 +0000"
+    },
+    "done": true
+  },
+  "thewii:immersive/core/immersive-soundscapes": {
+    "criteria": {
+      "trigger": "2022-11-13 15:29:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/mushroom_stew": {
+    "criteria": {
+      "has_brown_mushroom": "2022-11-13 15:34:40 +0000"
+    },
+    "done": true
+  },
+  "incendium:technical/on_player_hurt": {
+    "criteria": {
+      "requirement": "2023-07-10 20:07:00 +0000",
+      "log_spam_fixer": "2023-07-10 20:06:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/kill_all_mobs": {
+    "criteria": {
+      "minecraft:enderman": "2023-02-12 22:39:40 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/decorations/end_crystal": {
+    "criteria": {
+      "has_ender_eye": "2023-02-12 22:39:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/enter_the_nether": {
+    "criteria": {
+      "entered_nether": "2023-07-10 20:04:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/green_bed_from_white_bed": {
+    "criteria": {
+      "has_bed": "2022-11-13 15:29:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/brown_bed_from_white_bed": {
+    "criteria": {
+      "has_bed": "2022-11-13 15:29:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/enter_the_end": {
+    "criteria": {
+      "entered_end": "2022-12-27 16:00:06 +0000"
+    },
+    "done": true
+  },
+  "incendium:technical/sentrys_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2023-07-10 20:06:10 +0000"
+    },
+    "done": false
+  },
+  "minecraft:husbandry/balanced_diet": {
+    "criteria": {
+      "baked_potato": "2022-11-13 15:33:34 +0000",
+      "beef": "2023-07-10 19:44:19 +0000",
+      "golden_carrot": "2023-07-10 19:53:51 +0000",
+      "carrot": "2023-07-10 19:54:12 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/food/cooked_beef_from_smoking": {
+    "criteria": {
+      "has_beef": "2022-11-13 15:35:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/pink_bed_from_white_bed": {
+    "criteria": {
+      "has_bed": "2022-11-13 15:29:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/ender_chest": {
+    "criteria": {
+      "has_ender_eye": "2023-02-12 22:39:42 +0000"
+    },
+    "done": true
+  },
+  "dnl:story/general/new_start": {
+    "criteria": {
+      "new start": "2022-11-13 15:29:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/explore_nether": {
+    "criteria": {
+      "minecraft:nether_wastes": "2023-07-10 20:04:20 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/decorations/yellow_bed_from_white_bed": {
+    "criteria": {
+      "has_bed": "2022-11-13 15:29:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_beef_from_campfire_cooking": {
+    "criteria": {
+      "has_beef": "2022-11-13 15:35:18 +0000"
+    },
+    "done": true
+  },
+  "incendium:technical/feed_ghastling": {
+    "criteria": {
+      "log_spam_fixer": "2023-07-10 20:06:10 +0000"
+    },
+    "done": false
+  },
+  "minecraft:story/upgrade_tools": {
+    "criteria": {
+      "stone_pickaxe": "2022-11-13 15:29:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/oak_wood": {
+    "criteria": {
+      "has_log": "2022-11-13 15:29:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/red_bed_from_white_bed": {
+    "criteria": {
+      "has_bed": "2022-11-13 15:29:02 +0000"
+    },
+    "done": true
+  },
+  "thewii:immersive/player/player_joined": {
+    "criteria": {
+      "joined": "2022-11-13 15:29:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/light_gray_dye_from_oxeye_daisy": {
+    "criteria": {
+      "has_oxeye_daisy": "2023-07-10 19:54:17 +0000"
+    },
+    "done": true
+  },
+  "incendium:root": {
+    "criteria": {
+      "requirement": "2023-07-10 20:04:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/oak_boat": {
+    "criteria": {
+      "in_water": "2023-07-10 19:36:13 +0000"
+    },
+    "done": true
+  },
+  "global:root": {
+    "criteria": {
+      "trigger": "2022-11-13 15:29:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/blue_bed_from_white_bed": {
+    "criteria": {
+      "has_bed": "2022-11-13 15:29:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_porkchop_from_smoking": {
+    "criteria": {
+      "has_porkchop": "2023-07-10 19:56:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_porkchop": {
+    "criteria": {
+      "has_porkchop": "2023-07-10 19:56:30 +0000"
+    },
+    "done": true
+  },
+  "fokastudio:end/events/patchouli_discover_biome/the_end": {
+    "criteria": {
+      "requirement": "2022-12-27 16:00:07 +0000"
+    },
+    "done": true
+  },
+  "incendium:technical/using/shield": {
+    "criteria": {
+      "log_spam_fixer": "2022-11-13 15:29:04 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/decorations/light_gray_bed_from_white_bed": {
+    "criteria": {
+      "has_bed": "2022-11-13 15:29:02 +0000"
+    },
+    "done": true
+  },
+  "incendium:technical/on_inventory_change": {
+    "criteria": {
+      "log_spam_fixer": "2023-07-10 20:06:10 +0000"
+    },
+    "done": false
+  },
+  "DataVersion": 3120
+}

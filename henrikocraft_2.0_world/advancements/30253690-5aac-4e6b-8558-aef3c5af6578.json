@@ -1,0 +1,36 @@
+{
+  "vanillatweaks:root": {
+    "criteria": {
+      "tick": "2021-12-29 17:51:10 +0100"
+    },
+    "done": true
+  },
+  "vanillatweaks:durability_ping": {
+    "criteria": {
+      "tick": "2021-12-29 17:51:10 +0100"
+    },
+    "done": true
+  },
+  "vanillatweaks:dragon_drops": {
+    "criteria": {
+      "tick": "2021-12-29 17:51:10 +0100"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:sparse_jungle": "2021-12-29 18:31:52 +0100",
+      "minecraft:river": "2021-12-29 18:31:55 +0100",
+      "minecraft:jungle": "2021-12-29 18:08:33 +0100",
+      "minecraft:plains": "2021-12-29 17:51:10 +0100"
+    },
+    "done": false
+  },
+  "vanillatweaks:double_shulker_shells": {
+    "criteria": {
+      "tick": "2021-12-29 17:51:10 +0100"
+    },
+    "done": true
+  },
+  "DataVersion": 2865
+}

@@ -1,0 +1,33 @@
+{
+  "vanillatweaks:root": {
+    "criteria": {
+      "tick": "2022-06-28 14:20:06 +0100"
+    },
+    "done": true
+  },
+  "dnl:story/general/new_start": {
+    "criteria": {
+      "new start": "2022-06-28 14:20:06 +0100"
+    },
+    "done": true
+  },
+  "vanillatweaks:dragon_drops": {
+    "criteria": {
+      "tick": "2022-06-28 14:20:06 +0100"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:plains": "2022-06-28 14:20:06 +0100"
+    },
+    "done": false
+  },
+  "vanillatweaks:double_shulker_shells": {
+    "criteria": {
+      "tick": "2022-06-28 14:20:06 +0100"
+    },
+    "done": true
+  },
+  "DataVersion": 3105
+}

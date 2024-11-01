@@ -1,0 +1,28 @@
+{
+  "vanillatweaks:root": {
+    "criteria": {
+      "tick": "2021-12-24 07:34:30 +0100"
+    },
+    "done": true
+  },
+  "vanillatweaks:durability_ping": {
+    "criteria": {
+      "tick": "2021-12-24 07:34:30 +0100"
+    },
+    "done": true
+  },
+  "vanillatweaks:dragon_drops": {
+    "criteria": {
+      "tick": "2021-12-24 07:34:30 +0100"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:river": "2021-12-24 07:34:57 +0100",
+      "minecraft:plains": "2021-12-24 07:34:30 +0100"
+    },
+    "done": false
+  },
+  "DataVersion": 2865
+}

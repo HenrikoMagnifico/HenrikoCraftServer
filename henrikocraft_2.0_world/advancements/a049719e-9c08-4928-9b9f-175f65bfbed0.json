@@ -1,0 +1,105 @@
+{
+  "vanillatweaks:root": {
+    "criteria": {
+      "tick": "2022-07-01 15:12:52 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/carrot_on_a_stick": {
+    "criteria": {
+      "has_carrot": "2022-07-01 15:12:58 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/baked_potato_from_smoking": {
+    "criteria": {
+      "has_potato": "2022-07-01 15:13:00 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/chest": {
+    "criteria": {
+      "has_lots_of_items": "2022-07-01 15:12:59 +0100"
+    },
+    "done": true
+  },
+  "minecraft:adventure/kill_a_mob": {
+    "criteria": {
+      "minecraft:zombie_villager": "2022-07-01 15:18:31 +0100"
+    },
+    "done": true
+  },
+  "minecraft:adventure/kill_all_mobs": {
+    "criteria": {
+      "minecraft:zombie": "2022-07-01 15:18:32 +0100",
+      "minecraft:zombie_villager": "2022-07-01 15:18:31 +0100"
+    },
+    "done": false
+  },
+  "vanillatweaks:double_shulker_shells": {
+    "criteria": {
+      "tick": "2022-07-01 15:12:52 +0100"
+    },
+    "done": true
+  },
+  "dnl:story/general/locate_dungeon": {
+    "criteria": {
+      "locate_hunters_grave": "2022-07-01 15:12:49 +0100",
+      "locate_railway_outpost": "2022-07-01 15:12:49 +0100",
+      "locate_deep_oasis": "2022-07-01 15:12:49 +0100",
+      "locate_gallery_of_illusion": "2022-07-01 15:12:49 +0100",
+      "locate_forgotten_field": "2022-07-01 15:12:49 +0100",
+      "locate_sinkhole": "2022-07-01 15:12:49 +0100",
+      "locate_temple_of_tears": "2022-07-01 15:12:49 +0100",
+      "locate_hivenest": "2022-07-01 15:12:49 +0100",
+      "locate_olympus": "2022-07-01 15:12:49 +0100",
+      "locate_cleric_hideout": "2022-07-01 15:12:49 +0100",
+      "locate_watcher_camp": "2022-07-01 15:12:49 +0100",
+      "locate_crawlers_lair": "2022-07-01 15:12:49 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/baked_potato": {
+    "criteria": {
+      "has_potato": "2022-07-01 15:13:00 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/baked_potato_from_campfire_cooking": {
+    "criteria": {
+      "has_potato": "2022-07-01 15:13:00 +0100"
+    },
+    "done": true
+  },
+  "minecraft:adventure/root": {
+    "criteria": {
+      "killed_something": "2022-07-01 15:18:31 +0100"
+    },
+    "done": true
+  },
+  "dnl:items/swords/knightly_sword": {
+    "criteria": {
+      "requirement": "2022-07-01 15:18:31 +0100"
+    },
+    "done": true
+  },
+  "dnl:story/general/new_start": {
+    "criteria": {
+      "new start": "2022-07-01 15:12:52 +0100"
+    },
+    "done": true
+  },
+  "vanillatweaks:dragon_drops": {
+    "criteria": {
+      "tick": "2022-07-01 15:12:52 +0100"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:plains": "2022-07-01 15:12:49 +0100"
+    },
+    "done": false
+  },
+  "DataVersion": 3105
+}

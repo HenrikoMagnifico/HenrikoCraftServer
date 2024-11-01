@@ -1,0 +1,69 @@
+{
+  "minecraft:recipes/transportation/acacia_boat": {
+    "criteria": {
+      "in_water": "2022-06-03 23:22:38 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/oak_boat": {
+    "criteria": {
+      "in_water": "2022-06-03 23:22:38 +0100"
+    },
+    "done": true
+  },
+  "vanillatweaks:root": {
+    "criteria": {
+      "tick": "2022-06-03 23:20:05 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/dark_oak_boat": {
+    "criteria": {
+      "in_water": "2022-06-03 23:22:38 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/birch_boat": {
+    "criteria": {
+      "in_water": "2022-06-03 23:22:38 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/jungle_boat": {
+    "criteria": {
+      "in_water": "2022-06-03 23:22:38 +0100"
+    },
+    "done": true
+  },
+  "vanillatweaks:durability_ping": {
+    "criteria": {
+      "tick": "2022-06-03 23:20:05 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/spruce_boat": {
+    "criteria": {
+      "in_water": "2022-06-03 23:22:38 +0100"
+    },
+    "done": true
+  },
+  "vanillatweaks:dragon_drops": {
+    "criteria": {
+      "tick": "2022-06-03 23:20:05 +0100"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:plains": "2022-06-03 23:20:05 +0100"
+    },
+    "done": false
+  },
+  "vanillatweaks:double_shulker_shells": {
+    "criteria": {
+      "tick": "2022-06-03 23:20:05 +0100"
+    },
+    "done": true
+  },
+  "DataVersion": 2975
+}

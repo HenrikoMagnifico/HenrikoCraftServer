@@ -1,0 +1,39 @@
+{
+  "global:thewii": {
+    "criteria": {
+      "trigger": "2024-01-20 06:49:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/crafting_table": {
+    "criteria": {
+      "unlock_right_away": "2024-01-20 06:49:25 +0000"
+    },
+    "done": true
+  },
+  "thewii:immersive/player/player_joined": {
+    "criteria": {
+      "joined": "2024-01-20 06:49:25 +0000"
+    },
+    "done": true
+  },
+  "global:root": {
+    "criteria": {
+      "trigger": "2024-01-20 06:49:25 +0000"
+    },
+    "done": true
+  },
+  "thewii:immersive/core/immersive-soundscapes": {
+    "criteria": {
+      "trigger": "2024-01-20 06:49:25 +0000"
+    },
+    "done": true
+  },
+  "incendium:technical/new_player": {
+    "criteria": {
+      "requirement": "2024-01-20 06:49:25 +0000"
+    },
+    "done": true
+  },
+  "DataVersion": 3465
+}

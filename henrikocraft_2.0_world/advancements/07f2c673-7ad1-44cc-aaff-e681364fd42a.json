@@ -1,0 +1,67 @@
+{
+  "minecraft:recipes/misc/iron_ingot_from_iron_block": {
+    "criteria": {
+      "has_iron_block": "2021-12-11 15:53:16 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/bread": {
+    "criteria": {
+      "has_wheat": "2021-12-11 15:47:51 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/emerald": {
+    "criteria": {
+      "has_emerald_block": "2021-12-11 15:53:20 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/anvil": {
+    "criteria": {
+      "has_iron_block": "2021-12-11 15:53:16 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_ingot_from_gold_block": {
+    "criteria": {
+      "has_gold_block": "2021-12-11 15:53:16 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/diamond": {
+    "criteria": {
+      "has_diamond_block": "2021-12-11 15:53:14 +0100"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/plant_seed": {
+    "criteria": {
+      "wheat": "2021-12-11 15:47:52 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/hay_block": {
+    "criteria": {
+      "has_wheat": "2021-12-11 15:47:51 +0100"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:sparse_jungle": "2021-12-11 15:46:23 +0100",
+      "minecraft:river": "2021-12-11 15:46:16 +0100",
+      "minecraft:forest": "2021-12-11 15:46:37 +0100",
+      "minecraft:jungle": "2021-12-11 15:46:30 +0100",
+      "minecraft:plains": "2021-12-11 15:42:42 +0100"
+    },
+    "done": false
+  },
+  "minecraft:recipes/misc/netherite_ingot_from_netherite_block": {
+    "criteria": {
+      "has_netherite_block": "2021-12-11 15:53:15 +0100"
+    },
+    "done": true
+  },
+  "DataVersion": 2860
+}

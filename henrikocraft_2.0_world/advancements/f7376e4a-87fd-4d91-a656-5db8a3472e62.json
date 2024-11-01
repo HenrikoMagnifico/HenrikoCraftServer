@@ -1,0 +1,86 @@
+{
+  "minecraft:husbandry/root": {
+    "criteria": {
+      "consumed_item": "2021-12-12 20:54:52 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/dark_oak_boat": {
+    "criteria": {
+      "in_water": "2021-12-12 21:01:48 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/birch_boat": {
+    "criteria": {
+      "in_water": "2021-12-12 21:01:48 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_salmon": {
+    "criteria": {
+      "has_salmon": "2021-12-12 20:54:49 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/acacia_boat": {
+    "criteria": {
+      "in_water": "2021-12-12 21:01:48 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/oak_boat": {
+    "criteria": {
+      "in_water": "2021-12-12 21:01:48 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_salmon_from_smoking": {
+    "criteria": {
+      "has_salmon": "2021-12-12 20:54:49 +0100"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/balanced_diet": {
+    "criteria": {
+      "salmon": "2021-12-12 20:54:52 +0100"
+    },
+    "done": false
+  },
+  "minecraft:adventure/root": {
+    "criteria": {
+      "killed_something": "2021-12-12 20:54:48 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/jungle_boat": {
+    "criteria": {
+      "in_water": "2021-12-12 21:01:48 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_salmon_from_campfire_cooking": {
+    "criteria": {
+      "has_salmon": "2021-12-12 20:54:49 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/spruce_boat": {
+    "criteria": {
+      "in_water": "2021-12-12 21:01:48 +0100"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:dark_forest": "2021-12-12 20:55:57 +0100",
+      "minecraft:sparse_jungle": "2021-12-12 20:54:56 +0100",
+      "minecraft:river": "2021-12-12 20:54:47 +0100",
+      "minecraft:forest": "2021-12-12 20:55:13 +0100",
+      "minecraft:jungle": "2021-12-12 20:55:05 +0100",
+      "minecraft:plains": "2021-12-12 20:54:20 +0100"
+    },
+    "done": false
+  },
+  "DataVersion": 2865
+}

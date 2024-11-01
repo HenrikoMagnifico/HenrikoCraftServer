@@ -1,0 +1,31 @@
+{
+  "minecraft:recipes/decorations/snow": {
+    "criteria": {
+      "has_snowball": "2021-12-08 21:59:03 +0100"
+    },
+    "done": true
+  },
+  "minecraft:adventure/root": {
+    "criteria": {
+      "killed_something": "2021-12-08 21:59:03 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/snow_block": {
+    "criteria": {
+      "has_snowball": "2021-12-08 21:59:03 +0100"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:sparse_jungle": "2021-12-08 22:00:08 +0100",
+      "minecraft:river": "2021-12-08 22:00:15 +0100",
+      "minecraft:forest": "2021-12-08 22:00:26 +0100",
+      "minecraft:jungle": "2021-12-08 22:00:22 +0100",
+      "minecraft:plains": "2021-12-08 21:58:12 +0100"
+    },
+    "done": false
+  },
+  "DataVersion": 2860
+}

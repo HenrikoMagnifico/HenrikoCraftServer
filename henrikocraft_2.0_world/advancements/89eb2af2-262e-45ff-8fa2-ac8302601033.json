@@ -1,0 +1,268 @@
+{
+  "minecraft:recipes/misc/iron_nugget_from_blasting": {
+    "criteria": {
+      "has_iron_helmet": "2022-07-07 20:27:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dispenser": {
+    "criteria": {
+      "has_bow": "2022-07-07 20:28:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/carrot_on_a_stick": {
+    "criteria": {
+      "has_carrot": "2022-07-07 20:10:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/dark_oak_boat": {
+    "criteria": {
+      "in_water": "2022-07-07 20:18:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/baked_potato_from_smoking": {
+    "criteria": {
+      "has_potato": "2022-07-07 20:10:38 +0000"
+    },
+    "done": true
+  },
+  "dnl:items/shields/knightly_shield": {
+    "criteria": {
+      "requirement": "2022-07-07 20:29:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/emerald_block": {
+    "criteria": {
+      "has_emerald": "2022-07-07 20:43:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/kill_a_mob": {
+    "criteria": {
+      "minecraft:spider": "2022-07-07 20:29:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/kill_all_mobs": {
+    "criteria": {
+      "minecraft:blaze": "2022-07-07 20:32:15 +0000",
+      "minecraft:skeleton": "2022-07-07 20:30:31 +0000",
+      "minecraft:spider": "2022-07-07 20:29:54 +0000",
+      "minecraft:creeper": "2022-07-07 20:33:17 +0000",
+      "minecraft:slime": "2022-07-07 20:32:30 +0000",
+      "minecraft:zombified_piglin": "2022-07-07 20:31:14 +0000",
+      "minecraft:zombie": "2022-07-07 20:30:54 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/misc/paper": {
+    "criteria": {
+      "has_reeds": "2022-07-07 20:41:19 +0000"
+    },
+    "done": true
+  },
+  "vanillatweaks:double_shulker_shells": {
+    "criteria": {
+      "tick": "2022-07-07 20:10:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/sugar_from_sugar_cane": {
+    "criteria": {
+      "has_sugar_cane": "2022-07-07 20:41:19 +0000"
+    },
+    "done": true
+  },
+  "dnl:story/general/locate_dungeon": {
+    "criteria": {
+      "locate_hunters_grave": "2022-07-07 20:09:59 +0000",
+      "locate_railway_outpost": "2022-07-07 20:09:59 +0000",
+      "locate_deep_oasis": "2022-07-07 20:09:59 +0000",
+      "locate_gallery_of_illusion": "2022-07-07 20:09:59 +0000",
+      "locate_forgotten_field": "2022-07-07 20:09:59 +0000",
+      "locate_sinkhole": "2022-07-07 20:09:59 +0000",
+      "locate_temple_of_tears": "2022-07-07 20:09:59 +0000",
+      "locate_hivenest": "2022-07-07 20:09:59 +0000",
+      "locate_olympus": "2022-07-07 20:09:59 +0000",
+      "locate_cleric_hideout": "2022-07-07 20:09:59 +0000",
+      "locate_watcher_camp": "2022-07-07 20:09:59 +0000",
+      "locate_crawlers_lair": "2022-07-07 20:09:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/obtain_armor": {
+    "criteria": {
+      "iron_helmet": "2022-07-07 20:27:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/balanced_diet": {
+    "criteria": {
+      "carrot": "2022-07-07 20:39:13 +0000"
+    },
+    "done": false
+  },
+  "minecraft:adventure/trade": {
+    "criteria": {
+      "traded": "2022-07-07 20:43:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/baked_potato": {
+    "criteria": {
+      "has_potato": "2022-07-07 20:10:38 +0000"
+    },
+    "done": true
+  },
+  "dnl:items/swords/knightly_sword": {
+    "criteria": {
+      "requirement": "2022-07-07 20:29:54 +0000"
+    },
+    "done": true
+  },
+  "dnl:story/general/new_start": {
+    "criteria": {
+      "new start": "2022-07-07 20:14:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_nugget_from_smelting": {
+    "criteria": {
+      "has_iron_helmet": "2022-07-07 20:27:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:beach": "2022-07-07 20:41:00 +0000",
+      "minecraft:sparse_jungle": "2022-07-07 20:17:56 +0000",
+      "minecraft:river": "2022-07-07 20:17:59 +0000",
+      "minecraft:forest": "2022-07-07 20:25:15 +0000",
+      "minecraft:jungle": "2022-07-07 20:18:06 +0000",
+      "minecraft:ocean": "2022-07-07 20:41:47 +0000",
+      "minecraft:flower_forest": "2022-07-07 20:40:17 +0000",
+      "minecraft:savanna": "2022-07-07 20:38:17 +0000",
+      "minecraft:plains": "2022-07-07 20:09:59 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/misc/bone_meal": {
+    "criteria": {
+      "has_bone": "2022-07-07 20:35:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/campfire": {
+    "criteria": {
+      "has_coal": "2022-07-07 20:35:05 +0000"
+    },
+    "done": true
+  },
+  "vanillatweaks:root": {
+    "criteria": {
+      "tick": "2022-07-07 20:10:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/root": {
+    "criteria": {
+      "consumed_item": "2022-07-07 20:30:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/chest": {
+    "criteria": {
+      "has_lots_of_items": "2022-07-07 20:10:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/birch_boat": {
+    "criteria": {
+      "in_water": "2022-07-07 20:18:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/shiny_gear": {
+    "criteria": {
+      "diamond_helmet": "2022-07-07 20:28:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/mangrove_boat": {
+    "criteria": {
+      "in_water": "2022-07-07 20:18:15 +0000"
+    },
+    "done": true
+  },
+  "dnl:items/shield_plains": {
+    "criteria": {
+      "requirement": "2022-07-07 20:29:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/acacia_boat": {
+    "criteria": {
+      "in_water": "2022-07-07 20:18:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/oak_boat": {
+    "criteria": {
+      "in_water": "2022-07-07 20:18:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/arrow": {
+    "criteria": {
+      "has_feather": "2022-07-07 20:35:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/baked_potato_from_campfire_cooking": {
+    "criteria": {
+      "has_potato": "2022-07-07 20:10:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/coal_block": {
+    "criteria": {
+      "has_coal": "2022-07-07 20:35:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/root": {
+    "criteria": {
+      "killed_something": "2022-07-07 20:29:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/jungle_boat": {
+    "criteria": {
+      "in_water": "2022-07-07 20:18:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/spruce_boat": {
+    "criteria": {
+      "in_water": "2022-07-07 20:18:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/deflect_arrow": {
+    "criteria": {
+      "deflected_projectile": "2022-07-07 20:32:09 +0000"
+    },
+    "done": true
+  },
+  "vanillatweaks:dragon_drops": {
+    "criteria": {
+      "tick": "2022-07-07 20:10:00 +0000"
+    },
+    "done": true
+  },
+  "DataVersion": 3105
+}

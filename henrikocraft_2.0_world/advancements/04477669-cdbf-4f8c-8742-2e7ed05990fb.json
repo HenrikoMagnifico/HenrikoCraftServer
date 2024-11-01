@@ -1,0 +1,33 @@
+{
+  "thewii:immersive/player/player_joined": {
+    "criteria": {
+      "joined": "2023-07-19 09:38:12 +0000"
+    },
+    "done": true
+  },
+  "global:thewii": {
+    "criteria": {
+      "trigger": "2023-07-19 09:38:12 +0000"
+    },
+    "done": true
+  },
+  "global:root": {
+    "criteria": {
+      "trigger": "2023-07-19 09:38:12 +0000"
+    },
+    "done": true
+  },
+  "thewii:immersive/core/immersive-soundscapes": {
+    "criteria": {
+      "trigger": "2023-07-19 09:38:12 +0000"
+    },
+    "done": true
+  },
+  "incendium:technical/new_player": {
+    "criteria": {
+      "requirement": "2023-07-19 09:38:12 +0000"
+    },
+    "done": true
+  },
+  "DataVersion": 3465
+}
